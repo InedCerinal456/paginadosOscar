@@ -1,0 +1,25 @@
+<html>
+<head><title>Imágenes</title></head>
+<body>
+ <h1><b>IMÁGENES</b></h1>
+ <p><b>Aquí esta la foto mía:</b></p>
+ <img width="300px" height="400px" src="Yo.jpg">
+ <p><b>Y por acá está la foto de mi mascota:</b></p>
+ <img width="350px" height="450px" src="Mascota.jpg">
+ <style>
+ 	img {
+ 		margin-left: 10px;
+ 	    }
+ </style>
+ <style>
+ 	p {
+ 		margin-left: 10px;
+ 	    }
+ </style>
+ <style>
+ 	h1 {
+ 		margin-left: 60px;
+ 	    }
+ </style>
+</body>
+</html>
